@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Jak3d
+-  My name is Leonardo Marro
 - 👀 I’m interested in both computer science and blockchain coding
 - 🌱 I’m currently learning informatic scienze at the University of Turin
 - 📫 How to reach me: (main e-mail: marroleonardo@gmail.com || University e-mail: leonardo.marro@edu.unito.it)
