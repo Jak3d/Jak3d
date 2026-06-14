@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Jak3d
 -  My name is Leonardo Marro
-- 👀 I’m interested in both computer science and blockchain coding
-- 🌱 I’m currently learning informatic scienze at the University of Turin
-- 📫 How to reach me: (main e-mail: marroleonardo@gmail.com || University e-mail: leonardo.marro@edu.unito.it)
+- 👀 I’m interested in both Blockchain and AI agents
+- 🌱 I’m currently attending the Master in CS at Vu Amsterdam
+- 📫 How to reach me: (main e-mail: marroleonardo@gmail.com || University e-mail: l.marro@student.vu.nl)
 
-<!---
-Jak3d/Jak3d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
